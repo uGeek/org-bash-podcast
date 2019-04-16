@@ -1,0 +1,55 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+  <channel>
+    <title>uGeek Podcast</title>
+    <link>https://ugeek.github.io</link>
+    <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
+    <image>
+       <url>https://ugeek.github.io/https://ugeek.github.io/ugeek.png</url>
+       <title>uGeek Podcast</title>
+       <link>https://ugeek.github.io</link>
+    </image>
+    <language>es-es</language>
+    <copyright>Angel uGeek. copyright 2019</copyright>
+    <atom:link href="https://ugeek.github.io/podcast.xml" rel="self" type="application/rss+xml"/>
+    <itunes:summary>Podcast de Tecnología</itunes:summary>
+   <itunes:owner>
+    <itunes:name>uGeek</itunes:name>
+    <itunes:email>ugeekpodcast@gmail.com</itunes:email>
+   </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>Tecnología,Linux</itunes:keywords>
+    <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>
+    <rawvoice:location>Barcelona, Spain</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <itunes:category text="Technology"/>
+    <pubDate>Tue, 16 Apr 2019 19:47 +0100</pubDate>
+    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Podcast de Controla tu Raspberry, Servidor o PC desde Telegram</title>
+    <link>https://ugeek.github.io/post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</link>
+    <pubDate>Thu, 11 Apr 2019 21:00 +0100</pubDate>
+    <description>Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html&gt;Podcast de Controla tu Raspberry, Servidor o PC desde Telegram&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2909385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-11%2F12698297-44100-2-cc7aa8e8b47a9.mp3"/>
+    <guid>https://ugeek.github.io/post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</guid> 
+          <itunes:summary>Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
+  </channel>
+</rss>

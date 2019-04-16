@@ -1,0 +1,17 @@
+* Podcast de Controla tu Raspberry, Servidor o PC desde Telegram 
+:PROPERTIES:
+:TITLE: Podcast de Controla tu Raspberry, Servidor o PC desde Telegram
+:EXPORT_FILE_NAME: Controla tu Raspberry Servidor o PC desde Telegram
+:DESCRIPTION: Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente
+:EXPORT_DATE: 2019-04-11 21:00
+:CATEGORY: telegram
+:TAG: bash
+:IMAGE: https://ugeek.github.io/blog/icon/ugeek.png
+:URL_AUDIO: https://anchor.fm/s/106db04/podcast/play/2909385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-11%2F12698297-44100-2-cc7aa8e8b47a9.mp3
+:EXPLICIT: No
+:END:
+
+Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente.
+
+https://ugeek.github.io/blog/post/2019-04-11--controla-tu-raspberry-servidor-o-pc-desde-telegram.html
+ 
