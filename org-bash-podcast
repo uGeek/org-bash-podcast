@@ -24,6 +24,7 @@
 
 # BROWSER
 BROWSER="firefox"         # Browser to open page
+EMACS="emacs"             # txt editor
 TWITTER="@ugeekpodcast"   # nick twitter
 LANGUAGE="es_ES"          
 GOOGLE_ANALITYCS="UA-999999999-9"
@@ -155,6 +156,7 @@ echo '* TODO '$3'
 :IMAGE:
 :END:
 ' >> $2
+$EMACS $2
 else  
 if [ $1 = "-f" ]
 then
@@ -190,6 +192,7 @@ echo "* TODO $ULTIMO_TITULO_PODCAST
 :END:
 
 $ULTIMO_DESCRIPTION_PODCAST" >> $2
+$EMACS $2
 else  
 TITLE=$(grep "#+TITLE:" $1 | cut -d " " -f2-)
 LINK=$(grep "#+LINK:" $1 | cut -d " " -f2-)
