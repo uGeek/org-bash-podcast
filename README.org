@@ -1,12 +1,6 @@
 * org-bash-podcast
 Build a blog of Podcast from a single orgmode file with pandoc and all the bash power
 
-
-
-
-sudo wget https://raw.githubusercontent.com/uGeek/org-bash-podcast/master/org-bash-podcast /usr/bin/org-bash-podcast
-
-
 ** Install Org-bash-podcast
 
 There are two ways to use:
