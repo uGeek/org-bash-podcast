@@ -1,2 +1,59 @@
 * org-bash-podcast
 Build a blog of Podcast from a single orgmode file with pandoc and all the bash power
+
+
+
+
+sudo wget https://raw.githubusercontent.com/uGeek/org-bash-podcast/master/org-bash-podcast /usr/bin/org-bash-podcast
+
+
+** Install Org-bash-podcast
+
+There are two ways to use:
+
+*** Install on your server
+
+#+BEGIN_SRC 
+sudo wget https://raw.githubusercontent.com/uGeek/org-bash-podcast/master/org-bash-podcast /usr/bin/org-bash-podcast
+#+END_SRC
+
+#+BEGIN_SRC 
+sudo chmod +x /usr/bin/org-bash-podcast
+#+END_SRC
+
+Go to the root folder of the website and copy the config file:
+
+#+BEGIN_SRC 
+wget https://raw.githubusercontent.com/uGeek/org-bash-podcast/master/config
+#+END_SRC
+
+Now, change the default values and put yours
+
+
+*** Clone the repository:
+
+#+BEGIN_SRC 
+git clone git@github.com:uGeek/org-bash-podcast.git 
+#+END_SRC
+
+*** Install Pandoc y xml2
+
+Ubuntu, Debian, Raspbian...
+#+BEGIN_SRC 
+sudo apt install pandoc xml2
+#+END_SRC
+
+** Help
+
+#+BEGIN_SRC 
+org-bash-podcast -h
+#+END_SRC
+
+
+
+
+Angel
+
+https://ugeek.github.io
+
+ugeekpodcast@gmail.com
