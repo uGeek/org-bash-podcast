@@ -30,11 +30,11 @@ Now, change the default values and put yours
 git clone git@github.com:uGeek/org-bash-podcast.git 
 #+END_SRC
 
-*** Install Pandoc y xml2
+*** Install Pandoc, xml2, bc
 
 Ubuntu, Debian, Raspbian...
 #+BEGIN_SRC 
-sudo apt install pandoc xml2
+sudo apt install pandoc xml2 bc
 #+END_SRC
 
 ** Help
